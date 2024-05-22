@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+  
+  #guess {
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  #message {
+    font-weight: bold;
+  }
+  
